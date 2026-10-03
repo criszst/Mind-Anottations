@@ -1,5 +1,6 @@
 Um objeto literal é uma estrutura de dados usado para armazenar coleções de dados. Em resumo, um objeto literal é uma forma de criar objetos de maneira direta e concisa.
 
+
 Um objeto literal é representado por chaves `{}` e contém pares de chave valor, onde a chave é um identificador e o valor pode ser qualquer dado, como uma string, número, função ou outro objeto.
 
 Em resumo, os objeto literais são fundamentais na manipulação de dados em JS, especialmente ao trabalhar com APIS ou gerenciar o estado de uma aplicação.
